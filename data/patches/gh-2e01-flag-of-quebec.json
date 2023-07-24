@@ -1,0 +1,50 @@
+{
+	"id": 2033,
+	"name": "Flag of Quebec",
+	"description": "The flag of Quebec, called the Fleurdelisé (French for 'lily-flowered'), represents the Canadian province of Quebec. It consists of a white cross on a blue background, with four white fleurs-de-lis.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Flag_of_Quebec"
+		],
+		"subreddit": [
+			"Quebec"
+		],
+		"discord": [
+			"placequebec"
+		]
+	},
+	"path": {
+		"55-210": [
+			[
+				452,
+				124
+			],
+			[
+				452,
+				204
+			],
+			[
+				631,
+				204
+			],
+			[
+				631,
+				129
+			],
+			[
+				541,
+				125
+			],
+			[
+				452,
+				124
+			]
+		]
+	},
+	"center": {
+		"55-210": [
+			507,
+			164
+		]
+	}
+}
