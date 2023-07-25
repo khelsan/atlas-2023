@@ -1,0 +1,140 @@
+{
+	"id": -1,
+	"name": "Khelsan ",
+	"description": "Khelsan is a Québec streamer and moderator for r/Québec's Discord for r/place 2023. He streams Minecraft and Rocket League on Twitch and creates gaming videos on YouTube. He was formerly known online as Siphared.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/khelsan",
+			"https://www.youtube.com/@khelsan"
+		],
+		"subreddit": [
+			"Quebec"
+		],
+		"discord": [
+			"placequebec",
+			"sSBsvDppTG"
+		]
+	},
+	"path": {
+		"227": [
+			[
+				279,
+				973
+			],
+			[
+				278,
+				973
+			],
+			[
+				280,
+				973
+			],
+			[
+				281,
+				973
+			],
+			[
+				281,
+				974
+			],
+			[
+				282,
+				974
+			],
+			[
+				283,
+				974
+			],
+			[
+				284,
+				974
+			],
+			[
+				285,
+				974
+			],
+			[
+				285,
+				973
+			],
+			[
+				286,
+				974
+			],
+			[
+				286,
+				973
+			],
+			[
+				287,
+				973
+			],
+			[
+				288,
+				973
+			],
+			[
+				288,
+				974
+			],
+			[
+				288,
+				975
+			],
+			[
+				288,
+				976
+			],
+			[
+				288,
+				977
+			],
+			[
+				289,
+				979
+			],
+			[
+				288,
+				978
+			],
+			[
+				288,
+				980
+			],
+			[
+				288,
+				981
+			],
+			[
+				288,
+				982
+			],
+			[
+				288,
+				983
+			],
+			[
+				280,
+				983
+			],
+			[
+				280,
+				981
+			],
+			[
+				279,
+				981
+			],
+			[
+				279,
+				976
+			]
+		]
+	},
+	"center": {
+		"227": [
+			283,
+			978
+		]
+	}
+}
