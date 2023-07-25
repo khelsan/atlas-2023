@@ -1,0 +1,71 @@
+{
+	"id": -1,
+	"name": "Khelsan",
+	"description": "Khelsan is a content creator from Québec. He moderates the r/Place Québec Discord server. He streams Minecraft and Rocket League on Twitch as well as YouTube. He is formerly known as Siphared.",
+	"links": {
+		"website": [
+			"https://twitch.tv/khelsan",
+			"https://youtube.com/@khelsan"
+		],
+		"subreddit": [
+			"Quebec"
+		],
+		"discord": [
+			"sSBsvDppTG"
+		]
+	},
+	"path": {
+		"227": [
+			[
+				278,
+				972
+			],
+			[
+				279,
+				973
+			],
+			[
+				280,
+				973
+			],
+			[
+				281,
+				973
+			],
+			[
+				286,
+				973
+			],
+			[
+				287,
+				973
+			],
+			[
+				288,
+				973
+			],
+			[
+				288,
+				981
+			],
+			[
+				288,
+				983
+			],
+			[
+				282,
+				983
+			],
+			[
+				279,
+				983
+			]
+		]
+	},
+	"center": {
+		"227": [
+			283,
+			978
+		]
+	}
+}
