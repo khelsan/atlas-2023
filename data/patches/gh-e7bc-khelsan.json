@@ -1,0 +1,51 @@
+{
+	"id": -1,
+	"name": "Khelsan",
+	"description": "Khelsan is a Québec content creator who contributed to the management for r/Québec's place subreddit. He notably streams Minecraft, Rocket League and Clash of Clans on Twitch and YouTube. He is formerly known as \"Siphared\" in the french community.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/khelsan",
+			"https://www.youtube.com/@khelsan"
+		],
+		"subreddit": [
+			"Quebec"
+		],
+		"discord": [
+			"sSBsvDppTG"
+		]
+	},
+	"path": {
+		"252": [
+			[
+				279,
+				973
+			],
+			[
+				288,
+				973
+			],
+			[
+				289,
+				973
+			],
+			[
+				289,
+				984
+			],
+			[
+				279,
+				984
+			],
+			[
+				278,
+				973
+			]
+		]
+	},
+	"center": {
+		"252": [
+			284,
+			978
+		]
+	}
+}
